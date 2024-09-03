@@ -1,0 +1,4 @@
+Processus 1: Temps d'arrivé 3, Temps d'exécution 4, Priorité 1
+Processus 2: Temps d'arrivé 1, Temps d'exécution 4, Priorité 3
+Processus 3: Temps d'arrivé 2, Temps d'exécution 4, Priorité 1
+Processus 4: Temps d'arrivé 2, Temps d'exécution 6, Priorité 3
